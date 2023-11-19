@@ -1,0 +1,30 @@
+table {
+    background-color: aliceblue; 
+    
+}
+
+th, td {
+    text-align: left;
+    padding: 25px;
+    border-bottom: 5px solid black;
+    border-style: double;
+}
+
+h1,h2 {
+    background-color: beige;
+    border-radius: 10px;
+
+
+}
+
+
+#p {
+    border-style: dashed;
+    background-color: rgb(30, 97, 156);
+
+}
+
+tr:nth-child(odd) {
+    background-color: grey
+
+}
